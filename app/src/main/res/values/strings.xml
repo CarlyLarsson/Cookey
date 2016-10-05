@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Cookey</string>
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="saved_recipes_activity">Saved Recipes</string>
+    <string name="completed_recipes_activity">Completed Recipes</string>
+    <string name="view_photos_activity">Recipe Photos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="des_chick">As the name suggests, this pot pie is filled with chicken, and chicken only.
+        No peas, carrots, celery, or anything else. Just chicken. Okay, and a creamy sauce and a few green
+        onions. That\'s it, though. I was a little skeptical before trying it, but after baking it a few times
+        I can say I really don\'t miss the peas and carrots. It\'s rich and delicious and a great way to use leftover chicken</string>
+    <string name="des_cookies">This famous classic American cookie is a treat no matter what the age or occasion. Enjoy it with a glass of cold milk.</string>
+    <string name="des_carrot">Beneath this towering yet unpretentious appearance lies multiple layers of moist, mildly spiced cake that are flecked with
+        carrots and pecans and enveloped by a generous coating of cream cheese frosting.</string>
+    <string name="des_potato">These french fries are sort of blowing my mind. So crispy and loaded
+        with yummy garlic and Italian flavors. I could never turn down garlic and cheese. On french
+        fries nonetheless!.</string>
+    <string name="des_spring">These spring rolls are a refreshing change from the usual fried variety,
+        and have become a family favorite. They are great as a cool summertime appetizer, and are delicious
+        dipped in one or both of the sauces."</string>
+    <string name="des_eggs">It\’s so delicious, it’s almost a crime. Top it with creamy, sinful, decadent,
+        soul-inspiring homemade Hollandaise Sauce. Have you ever tasted Hollandaise Sauce, and I\’m not
+        talking the stuff in the paper packet? It\’s dreamy. It\’s a triumph. And it\’s made with a lot of butter.</string>
+    <string name="des_tomato">This recipe, is very simple. It\’s hard to go wrong with puff pastry,
+        roasted garlic, and the first tomatoes of the season. It doesn\'t reinvent the wheel and stuck
+        with a winning formula. It\’s extremely tasty.</string>
+    <string name="des_coconut">This is quite an old fashioned recipe for this classic pie which is
+        based upon a flour thickened, pudding-like custard pie filling. A proper coconut cream pie
+        should be velvety and creamy, not jelly like at all. This recipe gets it right and the
+        results are well worth the effort.</string>
+    <string name="des_cheese">These goat cheese cigars are easy to make and consist of very
+        few ingredients only. Now imagine the goat cheese with a sprinkle of honey and if you can
+        find lavender honey, trust me, your taste buds are going
+        to celebrate! And they are a true eye-catcher! </string>
+</resources>
